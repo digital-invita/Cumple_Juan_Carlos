@@ -12,8 +12,8 @@
     const INVITATION_CONFIG =
 {
   "meta": {
-    "pageTitle": "Misión: mi primer añito | Juan Carlos",
-    "ogTitle": "Misión: mi primer añito | Juan Carlos",
+    "pageTitle": "Mi primer añito | Juan Carlos",
+    "ogTitle": "Mi primer añito | Juan Carlos",
     "ogDescription": "Acompáñanos a celebrar el primer añito de Juan Carlos."
   },
   "event": {
@@ -22,7 +22,7 @@
     "eventDate": "2026-09-20T14:00",
     "eventEnd": "2026-09-20T18:00",
     "timeZone": "America/Mexico_City",
-    "eventLocation": "Top Salón Obispado",
+    "eventLocation": "",
     "rsvpPhone": "5550591264"
   },
   "theme": {
@@ -78,7 +78,7 @@
   "reception": {
     "title": "Base de celebración",
     "time": "14:00 hrs",
-    "place": "Top Salón Obispado",
+    "place": "",
     "mediaMode": "preview",
     "iconSrc": "recepcion.png",
     "mapLink": "https://maps.app.goo.gl/iFyq1i8C93bgtCiu7",
