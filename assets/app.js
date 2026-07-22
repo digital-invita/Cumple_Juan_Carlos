@@ -28,7 +28,7 @@
   "theme": {
     "bgTop": "#0b3d91",
     "bgMid": "#3bcb5a",
-    "bgBottom": "#8b5cf6",
+    "bgBottom": "#004ecc",
     "gold500": "#f2c06f",
     "particleColor": "#ffffff",
     "text": "#ffffff",
